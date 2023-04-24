@@ -6,7 +6,9 @@ See mvp at https://astrodown-playground.qiushiyan.dev/
 
 ## Usage
 
-Install as a Python CLI package
+Astrodown relies on [Python](https://www.python.org/), [Quarto](https://quarto.org/) and [Node.js](https://nodejs.org/en). You need to have them installed first.
+
+Install Astrodown as a Python package
 
 ```
 pip install astrodown
